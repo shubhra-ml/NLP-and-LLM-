@@ -1,2 +1,2 @@
-# NLP-and-LLM-
-Repository for practising NLP and LLM through hands-on coding challenges
+# NLP and LLM Practise
+Repository for practicing NLP and LLM through hands-on coding challenges
