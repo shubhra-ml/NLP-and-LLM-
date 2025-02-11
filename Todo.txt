@@ -1,3 +1,0 @@
-1. Complete the paper reading
-2. How to select a model
-3. Mongo DB
